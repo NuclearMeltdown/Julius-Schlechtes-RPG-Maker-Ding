@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Julius Kack Zimmer","order":1,"parentId":0,"scrollX":1139,"scrollY":641},
-{"id":2,"expanded":false,"name":"Leer","order":2,"parentId":0,"scrollX":1139,"scrollY":641},
-{"id":3,"expanded":false,"name":"Draußen","order":3,"parentId":0,"scrollX":2278,"scrollY":1282},
-{"id":4,"expanded":false,"name":"Haus","order":4,"parentId":0,"scrollX":1631,"scrollY":1278},
-{"id":5,"expanded":false,"name":"Richtig draußen","order":5,"parentId":0,"scrollX":2693,"scrollY":1775},
-{"id":6,"expanded":false,"name":"bei Clex zuhause","order":6,"parentId":0,"scrollX":1131,"scrollY":1533}
+{"id":1,"expanded":true,"name":"Julius Kack Zimmer","order":1,"parentId":0,"scrollX":1518.6666666666667,"scrollY":881.3333333333334},
+{"id":2,"expanded":false,"name":"Leer","order":2,"parentId":0,"scrollX":1518.6666666666667,"scrollY":881.3333333333334},
+{"id":3,"expanded":false,"name":"Draußen","order":3,"parentId":0,"scrollX":2278.6666666666665,"scrollY":1282.6666666666667},
+{"id":4,"expanded":false,"name":"Haus","order":4,"parentId":0,"scrollX":2332,"scrollY":1529.3333333333333},
+{"id":5,"expanded":false,"name":"Richtig draußen","order":5,"parentId":0,"scrollX":2332,"scrollY":1774.6666666666667},
+{"id":6,"expanded":false,"name":"bei Clex zuhause","order":6,"parentId":0,"scrollX":1508,"scrollY":1654.6666666666667}
 ]
