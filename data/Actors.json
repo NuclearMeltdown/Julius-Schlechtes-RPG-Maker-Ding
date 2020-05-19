@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Julius","nickname":"Der Sitzer","note":"","profile":"Macht eh nichts anderes als sitzen den ganzen Tag."},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"Alex","nickname":"Der dumme Penner","note":"","profile":"Codet irgendne Scheiße in das Spiel und findet sich lustig."},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":25,"maxLevel":99,"name":"Clary","nickname":"Derbe Waifu","note":"","profile":"Titten."},
+{"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Julius","nickname":"Der Sitzmensch","note":"","profile":"Macht eh nichts anderes als sitzen den ganzen Tag."},
+{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":99,"maxLevel":99,"name":"Alex","nickname":"Der Superpenner","note":"","profile":"Codet irgendne Scheiße in das Spiel und findet sich lustig."},
+{"id":3,"battlerName":"Actor1_3","characterIndex":1,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":25,"maxLevel":99,"name":"Clary","nickname":"Derbe Waifu","note":"","profile":"Titten."},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
